@@ -1,0 +1,3 @@
+delete some files in directory /data.
+git push.
+mystupid boss still prefers SVN

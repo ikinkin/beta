@@ -5,3 +5,4 @@ SECOND CHANGE IN GITHUB PROJECT.
 Git tracks changes.
 Git diff from git add and git commit.
 Git tracks changes of files.
+Git add ssh-key.
