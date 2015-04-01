@@ -1,0 +1,46 @@
+Yang Yichen,
+
+This is Irina Zuo, the People Coordinator for China. Welcome joining Red Hat family, I hope you have had a great start with Red Hat so far!
+
+For people needs in the future, please feel free to contact :
+Irina Zuo : People Coordinator 人力资源协调员 / Beijing PVG Office 北京侨福芳草地大厦办公室 /  yzuo@redhat.com / (86 10) 6533-9305 /Internal 8389305
+Cynthia Li : Senior HR Manager 高级人力资源经理 / Beijing Raycom Office 北京融科资讯中心办公室 / cli@redhat.com / (86 10) 6260-8286/Internal 8388286
+
+Below are some links and information that could be useful to you and help you with your start.
+
+Human Resources Policy & Benefits & Procedures:
+This is called Chinapage, a general information page gathering all the links that could be useful to you. It's very important so please keep as bookmark.
+https://home.corp.redhat.com/wiki/chinapage
+ 
+Paid Time Off (PTO) Booking Tool:
+All PTO requests should be submitted to your Manager via the OrangeHRM tool https://redhat.orangehrm.com/ . You should receive your user name and log in details to the system in due course.
+
+Internal mailing lists:
+To keep employees informed and updated on developments within your specific office or at a company wide level we have internal communication mailing lists. To keep informed, you will need to add yourself initially to China-list@redhat.com and Pek-list@redhat.com mailing list. There is also a list of other internal mailing lists, take a look and see which ones are relevant for you - your manager will probably have some advice on this:
+http://post-office.corp.redhat.com/mailman/listinfo
+ 
+New Hire Orientation:
+An important part of your on-boarding at Red Hat is to attend an in-person New Hire Orientation (NHO). You will receive an invitation to attend within 3 months once your on-boarding.
+NHO is an opportunity for you to get to know other Red Hatters and learn about the company directly from our managers, who will share more detail on our departments, Red Hat culture, and the tools that you will be using.
+
+In addition to your upcoming New Hire Orientation (NHO) session, please complete the virtual supplement to your in-person orientation. It provides information about Red Hat, our vision and strategy, and our culture and values, including presentations and videos on subjects like what it means to be an open source company. There’s also a quick reference to instructions on tools you’ll need – like email – as you get set up, and an interactive timeline to learn about our history. It’s a great way to get started and learn more about what we do and how we do it.
+Access the virtual supplement to New Hire Orientation here: https://mojo.redhat.com/community/training/newhires.
+
+To learn more about Red Hat:
+Please refer to attached New Hire Messaging Index.
+
+
+If I can be of any further assistance or if you have any queries at all, please feel free to let me know.
+
+
+Best regards, 
+Irina Zuo
+
+-- 
+Irina Zuo 左妍蕊
+
+People Coordinator China
+Red Hat Software (Beijing) Co.,Ltd
+Tel:+86-10-65339305
+8/F, Tower A, Beijing Parkview Green Fang Cao Di,
+No.9 Dong Da Qiao Road, Chaoyang District，Beijing 100020
