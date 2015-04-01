@@ -1,0 +1,35 @@
+
+#note by yiyang @ 2015-03-18 Wed.
+
+Important docs and guides:
+
+1. Hello, New Hires (all guides you need is listed here) - https://docs.engineering.redhat.com/x/QwC6
+2. New Hire Check List (pay attention) - https://docs.engineering.redhat.com/x/vRgjAQ
+3. HSS Introduction Slides - http://ucd.app.eng.bos.redhat.com/design/slides/Newhire/#1
+4. Company Information - https://home.corp.redhat.com/
+5. Red Hat Engineer Accreditation (Technical RHU courses for beginning, regular need to finish the test after the study) - https://mojo.redhat.com/docs/DOC-68358
+6. Initiate Compass Guide video (for regular. If you have problem open this link, try "Open Link In New Window") - http://file.rdu.redhat.com/rhu/Shared_Services_Dev/ProjectWired/PHASE2/Manager/CompassTR/InitiateYourCompass/3_Final/InitiateYourCompass.htm
+
+Tools you might find useful in your work:
+
+1. Confluence - https://docs.engineering.redhat.com/hss/hss.action
+2. JIRA - https://projects.engineering.redhat.com/secure/Dashboard.jspa
+3. Request Tracker (RT) - https://engineering.redhat.com/rt/index.html
+4. Mail List Subscription - https://post-office.corp.redhat.com/mailman/listinfo
+5. Org-Chart - https://people.engineering.redhat.com
+
+Others docs:
+
+1. HSS Training Home: https://docs.engineering.redhat.com/x/CAC6
+2. Tuition Reimbursement(for regular only) - https://home.corp.redhat.com/node/66109
+3. Paid Time Off(for regular only) - https://home.corp.redhat.com/node/68087
+
+New hire tasks:
+
+Please complete these tasks once you have set up your environment.
+
+1. Write an email to introduce yourself about name, interests, work experiences, etc. Please send it to your manager.
+2. Take a survey about our new hire guide process. The url is https://survey.app.test.eng.nay.redhat.com/index.php/23877/lang-en
+
+
+
